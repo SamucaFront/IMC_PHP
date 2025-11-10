@@ -40,5 +40,5 @@ Em seguida, exibe o resultado e a classificação correspondente:
 
 ## Pré-visualização
 
-*(<img width="976" height="985" alt="Captura de tela 2025-11-10 140335" src="https://github.com/user-attachments/assets/fed9c087-21f8-455a-b671-a061f376cebb" />
-)*  
+*<img width="976" height="985" alt="Captura de tela 2025-11-10 140335" src="https://github.com/user-attachments/assets/fed9c087-21f8-455a-b671-a061f376cebb" />
+*  
